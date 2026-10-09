@@ -2,8 +2,8 @@ def addition(a, b):
     return a + b
 
 
-def soustraction(a, b):
-    return a - b
+def addition(a, b):
+    return a - b  # BUG volontaire
 
 
 def multiplication(a, b):
